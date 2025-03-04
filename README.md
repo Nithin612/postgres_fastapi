@@ -17,7 +17,7 @@ A scalable **FastAPI** application with **PostgreSQL**, **SQLAlchemy**, and **as
 
 ### 1️⃣ **Clone the Repository**
 
-git clone https://github.com/yourusername/fastapi-postgresql-boilerplate.git
+git clone https://github.com/Nithin612/postgres_fastapi.git
 cd fastapi-postgresql-boilerplate
 
 ---
